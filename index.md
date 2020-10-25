@@ -1,6 +1,6 @@
 # **<center>Content</center>**
 
-## **_<center>To Write Something!</center>_**
+## **<center>To Write Something!</center>**
 <br>
 <br>
 
@@ -10,9 +10,9 @@
 
 
 
-* **Color**
+* **Color**<br>
 
-**<font color="#52c3ee" size=3>Color</font>**<br>
+**<font color="#52c3ee" size=3>Color</font>**
 
 * **Link**<br>
 [Is this a Link?](https://mephistoexp.github.io/blog_test.github.io/)
