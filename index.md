@@ -24,9 +24,12 @@
 
 * **Code**
 <br>
-`Here is the code.`
+` Here is the code.`
 
 * **Anything else?**
+```java
+  System.out.println("hello world");
+```
 
 <br>
 <br>
