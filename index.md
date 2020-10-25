@@ -10,16 +10,17 @@
 
 
 
-* **<font color="#52c3ee" size=8>Color</font>**
+* **Color**<br> 
+**<font color="#52c3ee" size=8>Color</font>**<br>
 ---
 * **Link**<br>
-[Is this a Link?](https://mephistoexp.github.io/blog_test.github.io/)
+[Is this a Link?](https://mephistoexp.github.io/blog_test.github.io/)<br>
 ---
 * **Image**<br>
-![Image](https://w.wallhaven.cc/full/83/wallhaven-832852.jpg)
+![Image](https://w.wallhaven.cc/full/83/wallhaven-832852.jpg)<br>
 ---
 * **Code**<br>
-`Here is the code.`
+`Here is the code.`<br>
 ---
 * **Anything else?**
 
