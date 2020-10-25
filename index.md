@@ -2,15 +2,21 @@
 
 ## **_Write Something!_**
 
+Learning Markdown
+===
+
+
+
 # <center>**<font color="#52c3ee" size=8>How to Use Color</font>**</center>
 
 ```markdown
-# <center>**<font color="#52c3ee" size=8>How to Use Color</font>**</center>
+# <center><font color="#52c3ee" size=8>**How to Use Color**</font></center>
 ```
 
 
 
-[Link?](https://mephistoexp.github.io/blog_test.github.io/)
+[Is this a Link?](https://mephistoexp.github.io/blog_test.github.io/)
+
 ![Image](https://w.wallhaven.cc/full/83/wallhaven-832852.jpg)
 
 
