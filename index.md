@@ -1,25 +1,27 @@
 # **<center>Content</center>**
 
 ## **_Write Something!_**
+\<br>
+\<br>
 
-Learning Markdown
+
+<center>Learning Markdown</center>
 ===
 
 
 
-# <center>**<font color="#52c3ee" size=8>How to Use Color</font>**</center>
-
-```markdown
-# <center><font color="#52c3ee" size=8>**How to Use Color**</font></center>
-```
-
-
-
+* <font color="#52c3ee" size=8>**Color**</font>
+---
+* **Link**
 [Is this a Link?](https://mephistoexp.github.io/blog_test.github.io/)
-
+---
+* **Image**
 ![Image](https://w.wallhaven.cc/full/83/wallhaven-832852.jpg)
-
-
+---
+* **Code**
+`Here is the code.`
+---
+* Anything else?
 
 
 
