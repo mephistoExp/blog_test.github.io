@@ -12,7 +12,7 @@
 
 * **Color**<br>
 
-**<font color="#52c3ee" size=3>Color</font>**
+- **<font color="#52c3ee" size=3>Color</font>**
 
 * **Link**<br>
 [Is this a Link?](https://mephistoexp.github.io/blog_test.github.io/)
